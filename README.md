@@ -15,9 +15,8 @@ Open to work.
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8d45283c-f628-45f5-9673-c05250be99b6" width="240" height="320" alt="readme" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=BrunoSync&style=flat&color=0f3460" alt="profile views" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoSync&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=BrunoSync&style=flat&color=0f3460" alt="profile views" />
 </div>
